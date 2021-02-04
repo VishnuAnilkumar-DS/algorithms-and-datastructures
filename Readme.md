@@ -1,5 +1,6 @@
 
-> > ## This repo is based on Udemy course : https://www.udemy.com/course/algorithms-and-data-structures-in-python/
+> ## This repo is based on Udemy course : https://www.udemy.com/course/algorithms-and-data-structures-in-python/
+
 
 > Linked List
 
