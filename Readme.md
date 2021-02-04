@@ -1,13 +1,24 @@
 
 > > ## This repo is based on Udemy course : https://www.udemy.com/course/algorithms-and-data-structures-in-python/
 
-> AVL Tree
+> Linked List
 
-> Bellman Ford
+> Stack
 
 > Binary Search Tree
 
+> AVL Tree
+
+> Red Black Tree
+
+> Heap Search
+
+> Heap Search in Python
+
+> Hash Linear Probing
+ 
 > Breadth First Search
+>   > Application: Web Crawler
 
 > Depth First Search
 
@@ -15,18 +26,22 @@
 
 > Dijkstras Algorithm
 
-> Dijkstras with Wdjacency Matrix
+> Dijkstras with Adjacency Matrix
 
-> Hash Linear Probing
+> Bellman Ford
 
-> Heap Search
 
-> Heap Search using Python
 
-> Linked List
 
-> Red Black Tree
 
-> Stack
 
-> Web Crawler
+
+
+
+
+
+
+
+
+
+
