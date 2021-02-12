@@ -1,6 +1,7 @@
 
 > ## This repo is based on Udemy course : https://www.udemy.com/course/algorithms-and-data-structures-in-python/
 
+> >### SEARCHING ALGORITHMS
 
 > Linked List
 >>> A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers
@@ -68,9 +69,13 @@ input until it finds one that is sorted
 > Quick Sort
 >>> QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways.
 
+> Merge Sort
+>>> Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.
 
 
+> Counting Sort
+>>> Counting sort is a sorting technique based on keys between a specific range. It works by counting the number of objects having distinct key values (kind of hashing). Then doing some arithmetic to calculate the position of each object in the output sequence.
 
-
-
+> Radix Sort
+>>> Radix sort is a non-comparative sorting algorithm. It avoids comparison by creating and distributing elements into buckets according to their radix. For elements with more than one significant digit, this bucketing process is repeated for each digit, while preserving the ordering of the prior step, until all digits have been considered. For this reason, radix sort has also been called bucket sort and digital sort.
 
